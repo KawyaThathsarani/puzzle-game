@@ -1,0 +1,11 @@
+302  :  Themiya 
+560  :  Ramani
+393  :  player 1
+100  :  Kawshi
+104  :  player10
+202  :  player 11
+204  :  player 12
+150  :  player 13
+300  :  player 16
+412  :  Binara
+
